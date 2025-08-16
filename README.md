@@ -1,2 +1,2 @@
 # Vigenere-Cipher
-It is an message encryption and decryption 
+A cryptography project implementing the Vigenère Cipher for text encryption and decryption.
